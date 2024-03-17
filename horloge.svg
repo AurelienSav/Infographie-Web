@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32.33 31.4">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <ellipse class="cls-3" cx="16.17" cy="15.7" rx="14.92" ry="14.45"/>
+      <circle class="cls-1" cx="16.17" cy="15.7" r="1.37"/>
+      <polygon class="cls-1" points="24.24 9.81 17.27 16.52 16.17 14.33 24.24 9.81"/>
+      <polygon class="cls-1" points="8.98 11.29 14.93 16.26 15.95 14.34 8.98 11.29"/>
+      <polygon class="cls-2" points="8.81 23.36 16.17 17.08 14.97 16.38 8.81 23.36"/>
+      <rect class="cls-1" x="14.62" y="4.28" width="3.1" height="1.08" transform="translate(11.34 20.99) rotate(-90)"/>
+      <rect class="cls-1" x="14.62" y="26.29" width="3.1" height="1.08" transform="translate(-10.67 43) rotate(-90)"/>
+      <rect class="cls-1" x="25.93" y="15.16" width="3.1" height="1.08"/>
+      <rect class="cls-1" x="3.14" y="15.16" width="3.1" height="1.08"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,544 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+
+/*-----------------------------------------TITRE PRINCIPAL--------------------*/
+.titre{
+    background-color: rgb(0, 87, 111);
+    padding-top: 0.1vw;
+    padding-bottom: 0.1vw;
+    margin-bottom: 2vw;
+}
+.titre h1{
+    color: aliceblue;
+    font-size: 6vw;
+    text-align: center;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    border: solid 0.3vw rgb(255, 248, 234);
+}
+
+/*-----------------------------------------TITRE 1--------------------*/
+
+.titre1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color:rgb(1, 166, 200) ;
+    border-bottom: solid 1.5vw rgb(255, 248, 234);
+}
+.titre1 img{
+    width: 15vw;
+}
+.wd{
+    color: white;
+    font-size: 4vw;
+    margin-left: 5vw;
+}
+.para1{
+    background-color: white;
+    position: absolute;
+    font-size: 1.1vw;
+    padding: 0.5vw;
+    margin-left: 58vw;
+}
+/*----------------------------------------------CONTAINER 1----------------------------------*/
+.container1{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 248, 234);
+    padding-bottom: 1.5vw;
+    border-bottom: solid 0.5vw rgb(175, 175, 175);
+}
+.carre1{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5vw;
+    margin-top: -3vw;
+}
+/*----------------------------------------------HORLOGE----------------------------------*/
+.colonne1{
+    display: flex;
+    flex-direction: column;
+}
+.info1{
+    border-bottom: solid 0.2vw grey;
+    padding-right: 7vw;
+    padding-left: 1.5vw;
+}
+.info1 h3{
+    font-size: 3.5vw;
+    margin-bottom: 0%;
+    color: rgb(45, 45, 45);
+}
+.info1 p{
+    margin-top: 0%;
+    padding-right: 2vw;
+    font-size: 1.5vw;
+    color: rgb(45, 45, 45);
+}
+.info1 img{
+    position: absolute;
+    width: 6.5vw;
+    margin-left: 9vw;
+    margin-top: -9vw;
+}
+
+/*----------------------------------------------ENGRENAGES----------------------------------*/
+.info2{
+    border-bottom: solid 0.2vw grey;
+    padding-right: 7vw;
+    padding-left: 1.5vw;
+}
+.info2 h3{
+    font-size: 3.5vw;
+    margin-bottom: 0%;
+    color: rgb(45, 45, 45);
+}
+.info2 p{
+    margin-top: 0%;
+    padding-right: 2vw;
+    font-size: 1.5vw;
+    color: rgb(45, 45, 45);
+}
+.info2 img{
+    position: absolute;
+    width: 7vw;
+    margin-left: 8.5vw;
+    margin-top: -9vw;
+}
+/*----------------------------------------------CALCULATRICE----------------------------------*/
+
+.colonne2{
+    display: flex;
+    flex-direction: column;
+}
+.info3{
+    border-bottom: solid 0.2vw grey;
+    padding-right: 7vw;
+    margin-left: 3vw;
+    padding-left: 1.5vw;
+}
+.info3 h3{
+    font-size: 3.5vw;
+    margin-bottom: 0%;
+    color: rgb(45, 45, 45);
+}
+.info3 p{
+    margin-top: 0%;
+    padding-right: 2vw;
+    font-size: 1.5vw;
+    color: rgb(45, 45, 45);
+}
+.info3 img{
+    position: absolute;
+    width: 4.8vw;
+    margin-left: 10.3vw;
+    margin-top: -9vw;
+}
+/*----------------------------------------------LUNETTES----------------------------------*/
+.info4{
+    border-bottom: solid 0.2vw grey;
+    padding-right: 7vw;
+    margin-left: 3vw;
+    padding-left: 1.5vw;
+}
+.info4 h3{
+    font-size: 3.5vw;
+    margin-bottom: 0%;
+    color: rgb(45, 45, 45);
+}
+.info4 p{
+    margin-top: 0%;
+    padding-right: 2vw;
+    font-size: 1.5vw;
+    color: rgb(45, 45, 45);
+}
+.info4 img{
+    position: absolute;
+    width: 7vw;
+    margin-left: 9vw;
+    margin-top: -7vw;
+}
+/*----------------------------------------------ILLUSTRATUION 1----------------------------------*/
+.carre2{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 5vw;
+    margin-left: 2vw;
+    padding-left: 3vw;
+    padding-bottom: 1vw;
+    border-left: solid 0.3vw rgb(68, 68, 68);
+}
+.ill1{
+    width: 35vw;
+}
+.regle{
+    width: 4.3vw;
+    margin-left: 2.5vw;
+}
+/*----------------------------------------------TITRE 2----------------------------------*/
+.titre2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color:rgb(255, 149, 0) ;
+    border-bottom: solid 1.5vw rgb(255, 248, 234);
+    margin-top: 1vw;
+}
+.titre2 img{
+    width: 15vw;
+}
+.ap{
+    color: white;
+    font-size: 4vw;
+    margin-left: 1.5vw;
+}
+.para2{
+    background-color: white;
+    position: absolute;
+    font-size: 1.1vw;
+    padding: 0.5vw;
+    margin-left: 58vw;
+}
+/*----------------------------------------------CONTAINER 2----------------------------------*/
+.container2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(255, 248, 234);
+    padding-bottom: 1.5vw;
+    border-bottom: solid 0.5vw rgb(175, 175, 175);
+}
+.ill2{
+    display: flex;
+    margin-left: 5vw;
+    flex: 1;
+    width: 1vw;
+}
+.ill2 img{
+    width: 35vw;
+}
+.ill3{
+    display: flex;
+    flex: 1;
+    margin-left: -3vw;
+    padding-left: 4vw;
+    border-left: solid 0.3vw rgb(68, 68, 68);
+}
+.ill3 img{
+    width: 40vw;
+}
+/*----------------------------------------------TITRE 3----------------------------------*/
+.titre3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color:rgb(0, 221, 0);
+    border-bottom: solid 1.5vw rgb(255, 248, 234);
+    margin-top: 1vw;
+}
+.titre3 img{
+    width: 15vw;
+}
+.cd{
+    color: white;
+    font-size: 4vw;
+    margin-left: 1.5vw;
+}
+.para3{
+    background-color: white;
+    position: absolute;
+    font-size: 1.1vw;
+    padding: 0.5vw;
+    margin-left: 58vw;
+}
+/*----------------------------------------------CONTAINER 3----------------------------------*/
+.container3{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 248, 234);
+    padding-bottom: 3vw;
+    border-bottom: solid 0.5vw rgb(175, 175, 175);
+}
+.banderoles{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin-left: 3vw;
+    margin-top: 2vw;
+}
+.band1{
+    width: 40vw;
+    margin-bottom: 2vw;
+    margin-left: 1vw;
+}
+.band2{
+    width: 38vw;
+    margin-bottom: 2vw;
+    margin-left: 0.3vw;
+}
+.band3{
+    width: 34vw;
+    margin-left: 0.3vw;
+}
+.ill4{
+    display: flex;
+    flex: 1;
+    border-left: solid 0.3vw rgb(68, 68, 68);
+}
+.ill4 img{
+    width: 40vw;
+    padding-left: 5vw;
+    margin-right: 4.85vw;
+}
+/*----------------------------------------------RESPONSIVE----------------------------------*/
+@media (max-width:1000px){
+
+.container1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.colonne1{
+    margin-left: 4vw;
+}
+
+.titre1{
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(1, 166, 200) ;
+    border-bottom: solid 1.5vw rgb(255, 248, 234);
+    padding-bottom: 10vw;
+}
+.titre1 img{
+    width: 15vw;
+    display: none;
+}
+.wd{
+    color: white;
+    margin-top: 1.5vw;
+    font-size: 5vw;
+}
+.para1{
+    background-color: white;
+    align-items: center;
+    font-size: 2.5vw;
+    margin-top: 10vw;
+    margin-left: 0vw;
+    text-align: center;
+}
+
+.info1{
+    border-bottom: solid 0.2vw grey;
+    padding-right: 15vw;
+    margin-right: 5vw;
+}
+.info1 h3{
+    font-size: 6vw;
+    margin-bottom: 0%;
+    color: rgb(45, 45, 45);
+}
+.info1 p{
+    margin-top: 0%;
+    padding-right: 2vw;
+    font-size: 2.5vw;
+    color: rgb(45, 45, 45);
+}
+.info1 img{
+    position: absolute;
+    width: 12vw;
+    margin-left: 15.5vw;
+    margin-top: -15vw;
+}
+
+.titre2{
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(255, 149, 0) ;
+    border-bottom: solid 1.5vw rgb(255, 248, 234);
+    padding-bottom: 10vw;
+}
+.titre2 img{
+    width: 15vw;
+    display: none;
+}
+.ap{
+    color: white;
+    margin-top: 1.5vw;
+    font-size: 5vw;
+}
+.para2{
+    background-color: white;
+    align-items: center;
+    font-size: 2.5vw;
+    margin-top: 10vw;
+    margin-left: 0vw;
+    text-align: center;
+}
+
+.info2{
+    border-bottom: solid 0.2vw grey;
+    padding-right: 15vw;
+    margin-right: 5vw;
+}
+.info2 h3{
+    font-size: 6vw;
+    margin-bottom: 0%;
+    color: rgb(45, 45, 45);
+}
+.info2 p{
+    margin-top: 0%;
+    padding-right: 2vw;
+    font-size: 2.5vw;
+    color: rgb(45, 45, 45);
+}
+.info2 img{
+    position: absolute;
+    width: 12vw;
+    margin-left: 15.5vw;
+    margin-top: -15vw;
+}
+
+.titre3{
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(0, 221, 0) ;
+    border-bottom: solid 1.5vw rgb(255, 248, 234);
+    padding-bottom: 10vw;
+}
+.titre3 img{
+    width: 15vw;
+    display: none;
+}
+.cd{
+    color: white;
+    margin-top: 1.5vw;
+    font-size: 5vw;
+}
+.para3{
+    background-color: white;
+    align-items: center;
+    font-size: 2.5vw;
+    margin-top: 10vw;
+    margin-left: 0vw;
+    text-align: center;
+}
+
+.info3{
+    border-bottom: solid 0.2vw grey;
+    padding-right: 15vw;
+    margin-left: 3vw;
+    padding-left: 1.5vw;
+}
+.info3 h3{
+    font-size: 6vw;
+    margin-bottom: 0%;
+    color: rgb(45, 45, 45);
+}
+.info3 p{
+    margin-top: 0%;
+    padding-right: 2vw;
+    font-size: 2.5vw;
+    color: rgb(45, 45, 45);
+}
+.info3 img{
+    position: absolute;
+    width: 8.5vw;
+    margin-left: 16.5vw;
+    margin-top: -14.7vw;
+}
+
+.info4{
+    border-bottom: solid 0.2vw grey;
+    padding-right: 7vw;
+    margin-left: 3vw;
+    padding-left: 1.5vw;
+}
+.info4 h3{
+    font-size: 6vw;
+    margin-bottom: 0%;
+    color: rgb(45, 45, 45);
+}
+.info4 p{
+    margin-top: 0%;
+    padding-right: 2vw;
+    font-size: 2.5vw;
+    color: rgb(45, 45, 45);
+}
+.info4 img{
+    position: absolute;
+    width: 14vw;
+    margin-left: 14vw;
+    margin-top: -13vw;
+}
+
+
+.carre1{
+    margin-bottom: 5vw;
+    margin-right: 8vw;
+}
+.carre2{
+    border-left: none;
+    margin-left: 2vw;
+}
+.regle{
+    margin-right: 5vw;
+    width: 7vw;
+}
+.ill1{
+    width: 60vw;
+    margin-left: 5vw;
+}
+.container2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ill2{
+    width: 60vw;
+    margin-right: 3vw;
+    margin-bottom: 5vw;
+}
+.ill2 img{
+    width: 60vw;
+}
+.ill3{
+    border-left: none;
+}
+.ill3 img{
+    width: 60vw;
+}
+.container3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.banderoles{
+    margin-bottom: 5vw;
+    margin-right: 2vw;
+}
+.band1{
+    width: 60vw;
+}
+.band2{
+    width: 54.5vw;
+}
+.band3{
+    width: 49vw;
+}
+.ill4{
+    border-left: none;
+    margin-left: 0vw;
+}
+.ill4 img{
+    width: 60vw;
+}
+
+}

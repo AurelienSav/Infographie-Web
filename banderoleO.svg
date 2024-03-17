@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204.95 29.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e5e5e5;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 8px;
+      }
+
+      .cls-2 {
+        fill: #404040;
+        font-family: FranklinGothic-Demi, 'Franklin Gothic Demi';
+        font-size: 18px;
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        fill: #c98e00;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #ff710a;
+      }
+
+      .cls-5 {
+        fill: #ffd000;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: #e97100;
+      }
+
+      .cls-7, .cls-8 {
+        stroke: #9f5000;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-8 {
+        fill: #ff8b08;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <g>
+        <g>
+          <g>
+            <path class="cls-4" d="M10.17,29.25s4.17-6.53,10.14-9.73c.07-4.03,0-15.63,0-15.63,0,0-6.81-1.11-10.14-3.89v29.25Z"/>
+            <path class="cls-4" d="M10.17,29.25S6.01,22.72.03,19.52C-.04,15.49.03,3.89.03,3.89.03,3.89,6.84,2.78,10.17,0v29.25Z"/>
+          </g>
+          <rect class="cls-5" x="4.69" y="11.67" width="11.19" height="9.24"/>
+          <path class="cls-6" d="M6.14,11.67h2.08s-.28-5.07,2.05-5.14,1.98,3.61,2.05,5.14c2.92,0,2.43,0,2.43,0,0,0,.59-7.36-4.29-7.29-4.88.07-4.32,7.29-4.32,7.29Z"/>
+          <path class="cls-3" d="M9.2,18.69h2.08s-.83-8.75-2.08,0Z"/>
+        </g>
+        <g>
+          <rect class="cls-7" x="31.89" y="9.89" width="53.39" height="13.15"/>
+          <text class="cls-1" transform="translate(34.64 18.42)"><tspan x="0" y="0">malesuada</tspan></text>
+          <polygon class="cls-8" points="161.15 16.47 167.63 10.14 161.15 3.82 79.02 3.82 79.02 16.47 161.15 16.47"/>
+        </g>
+      </g>
+      <text class="cls-2" transform="translate(171.43 16.47)"><tspan x="0" y="0">56%</tspan></text>
+    </g>
+  </g>
+</svg>

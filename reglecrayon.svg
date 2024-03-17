@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.67 82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #630003;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #1f2300;
+      }
+
+      .cls-3 {
+        fill: #f7e6d0;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #1f1e00;
+      }
+
+      .cls-6 {
+        fill: #ffb400;
+      }
+
+      .cls-7 {
+        fill: #616161;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <g>
+        <path class="cls-7" d="M0,.19v81.62h10.03V.19H0ZM5.01,7.44c-1.1,0-1.99-.89-1.99-1.99s.89-1.99,1.99-1.99,1.99.89,1.99,1.99-.89,1.99-1.99,1.99Z"/>
+        <rect class="cls-4" y="77.14" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="71.98" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="46.17" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="41" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="56.49" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="51.33" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="66.82" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="61.65" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="15.19" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="10.02" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="25.51" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="20.35" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="35.84" width="3.38" height="1.39"/>
+        <rect class="cls-4" y="30.68" width="3.38" height="1.39"/>
+      </g>
+      <g>
+        <polygon class="cls-6" points="14.99 8.58 14.99 82 20.67 82 20.67 8.58 17.83 0 14.99 8.58"/>
+        <polygon class="cls-3" points="15.27 7.72 20.39 7.72 17.83 0 15.27 7.72"/>
+        <polygon class="cls-5" points="16.55 3.86 19.11 3.86 17.83 0 16.55 3.86"/>
+        <rect class="cls-2" x="14.99" y="73.81" width="5.69" height="8.19"/>
+        <rect class="cls-1" x="14.99" y="77.47" width="5.69" height="4.53"/>
+      </g>
+    </g>
+  </g>
+</svg>
